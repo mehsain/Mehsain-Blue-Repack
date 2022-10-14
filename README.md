@@ -1,5 +1,8 @@
 # Mehsain Blue Repack
- A blue coloured minecraft texture pack, for boosting fps and smooth pvp.
+A Blue Themed Minecraft Texture Pack, especially for boosting FPS and having a smooth PvP Exprience.
+
+# Downloads:
+[Click Here](https://github.com/mehsain/Mehsain-Blue-Repack/releases/tag/v0.1) to get download files.
 
 # Screenshots:
 
