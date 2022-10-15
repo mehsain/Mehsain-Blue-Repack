@@ -16,7 +16,7 @@ A Blue Themed Minecraft Texture Pack, especially for boosting FPS and having a s
 
 ### Crosshair
 
-![image](https://user-images.githubusercontent.com/114495317/195782931-a4fb6dd7-9783-4a14-90c6-3350a319bed9.png)
+![image](https://user-images.githubusercontent.com/114495317/195977806-7272c237-0243-4ad4-813d-acfa337c7fa3.png)
 
 ## **PvP Items**
 
